@@ -1,0 +1,102 @@
+@charset "utf-8";
+body {
+	color: #C8C8CB;
+	background-image: url(../images/background-dark.jpg);
+	background-size: cover;
+	background-attachment: fixed;
+	font-style: normal;
+	font-weight: 400;
+	margin: 0;
+	height: 100%;
+	font-family: cabin-sketch;
+}
+body {
+	text-align: center;
+	bottom: 1%;
+	font-family: cabin-sketch;
+	font-style: normal;
+	font-weight: 400;
+}
+body form input button {
+
+
+
+}
+
+
+
+body h1 {
+	font-style: normal;
+	font-weight: 400;
+	font-family: cabin-sketch;
+	text-align: center;
+}
+.assideRight {
+	width: 55%;
+	text-align: left;
+	float: right;
+	margin-right: 5%;
+	margin-left: 2%;
+	margin-top: 30px;
+	background-image: -webkit-linear-gradient(270deg,rgba(72,49,85,1.00) 1.55%,rgba(251,251,251,0.25) 97.93%,rgba(253,248,249,0.19) 97.93%);
+	background-image: -moz-linear-gradient(270deg,rgba(72,49,85,1.00) 1.55%,rgba(251,251,251,0.25) 97.93%,rgba(253,248,249,0.19) 97.93%);
+	background-image: -o-linear-gradient(270deg,rgba(72,49,85,1.00) 1.55%,rgba(251,251,251,0.25) 97.93%,rgba(253,248,249,0.19) 97.93%);
+	background-image: linear-gradient(180deg,rgba(72,49,85,1.00) 1.55%,rgba(251,251,251,0.25) 97.93%,rgba(253,248,249,0.19) 97.93%);
+	color: #F5F2F2;
+	padding-left: 2.5%;
+	padding-top: 2.5%;
+	padding-right: 2.5%;
+	padding-bottom: 2.5%;
+	border-top-right-radius: 25px;
+	margin-bottom: 2%;
+}
+
+body aside h2 {
+	font-family: cabin-sketch;
+	font-style: normal;
+	font-weight: 400;
+	font-size: 4em;
+	text-align: center;
+}
+body section h2 {
+	font-family: cabin-sketch;
+	font-style: normal;
+	font-weight: 400;
+	font-size: 2em;
+	text-align: center;
+}
+
+
+
+
+body aside h2 {
+}
+
+.assideLeft {
+	width: 30%;
+	float: left;
+	margin-bottom: 5%;
+}
+foter {
+	font-size: small;
+	font-family: cabin-sketch;
+	font-style: normal;
+	font-weight: 400;
+	text-align: center;
+	clear: both;
+	margin-bottom: 10px;
+}
+body form input {
+	text-align: center;
+	background-image: -webkit-linear-gradient(270deg,rgba(132,232,253,1.00) 0%,rgba(27,0,219,1.00) 100%);
+	background-image: -moz-linear-gradient(270deg,rgba(132,232,253,1.00) 0%,rgba(27,0,219,1.00) 100%);
+	background-image: -o-linear-gradient(270deg,rgba(132,232,253,1.00) 0%,rgba(27,0,219,1.00) 100%);
+	background-image: linear-gradient(180deg,rgba(132,232,253,1.00) 0%,rgba(27,0,219,1.00) 100%);
+}
+.login {
+}
+body foter {
+	font-family: cabin-sketch;
+	font-style: normal;
+	font-weight: 400;
+}
